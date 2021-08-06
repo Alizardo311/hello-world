@@ -1,5 +1,5 @@
 # hello-world
-Getting stared on GitHub
+Getting started on GitHub
 
 Hi!
 
